@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953623608984",
+    "firebase_url": "https://point-fd22d-default-rtdb.firebaseio.com",
+    "project_id": "point-fd22d",
+    "storage_bucket": "point-fd22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953623608984:android:137654bc5d4505b18cdaed",
+        "android_client_info": {
+          "package_name": "com.example.pubgeventrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953623608984-dg8e24cehpu7kv0q7tdok9lm1pcegr99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOy8i2EyIYjpJb6ecTlfhbr-nYnIO66Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953623608984-dg8e24cehpu7kv0q7tdok9lm1pcegr99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
